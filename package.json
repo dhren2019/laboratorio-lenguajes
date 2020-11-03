@@ -1,0 +1,19 @@
+{
+  "name": "laboratorio-lenguajes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhren2019/laboratorio-lenguajes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhren2019/laboratorio-lenguajes/issues"
+  },
+  "homepage": "https://github.com/dhren2019/laboratorio-lenguajes#readme"
+}
