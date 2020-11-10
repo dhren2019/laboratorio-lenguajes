@@ -1,1 +1,5 @@
 # laboratorio-lenguajes
+
+```
+IGNORAR CARPETA EJERCICIOS NO ESTAN RESUELTOS
+```
